@@ -13,22 +13,22 @@
           27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
           100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
         }
-        h1, h2, h3, h4 {
+        h1 {
           width: 420px;
           line-height: 20px;
           padding-top: 70px;
           text-align: center;
-          font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
+          font: 400 16px / 1.5 Helvetica, Arial, sans-serif;
           color: rgb(52, 73, 94);
           transform-origin: bottom;
           animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
         }
       </style>
-      <h1>The Hacking Project</h1>
-      <h2>Semaine 2  d'introduction au code</h2>
-      <h3>Jour 5 / 15</h3>
-      <h3>Découverte de la programmation avec Ruby</h3>
-      <h4>Première série d'exercices en Ruby</h4>
+      <h1>
+        The Hacking Project - Semaine 2  d'introduction au code<BR>
+        Jour 5 / 15 - Découverte de la programmation avec Ruby<BR>
+        Première série d'exercices en Ruby
+      </h1>
     </div>
   </foreignObject>
 </svg>
